@@ -71,13 +71,6 @@ The dataset contains customer and policy information such as age, sex, BMI, smok
 4. Open charts in `outputs/charts/`.
 5. Explore the notebook in `notebooks/auto_insurance_analysis.ipynb`.
 
-## Resume Bullet Points
-
-- Built a predictive auto insurance system using Python, pandas, scikit-learn, and visualization tools.
-- Developed classification and regression models to estimate claim risk and premium pricing.
-- Implemented data cleaning, feature engineering, and business-focused model evaluation.
-- Produced actionable insights for underwriting, customer segmentation, and premium strategy.
-
 ## Future Improvements
 
 - Add more real-world auto insurance features like policy type and vehicle make.
