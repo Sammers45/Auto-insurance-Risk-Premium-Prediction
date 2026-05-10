@@ -1,0 +1,40 @@
+Model: logistic_regression
+Metrics:
+  accuracy: 0.9478
+  precision: 0.9655
+  recall: 0.8235
+  f1_score: 0.8889
+  roc_auc: 0.9525
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.94      0.99      0.97       200
+           1       0.97      0.82      0.89        68
+
+    accuracy                           0.95       268
+   macro avg       0.95      0.91      0.93       268
+weighted avg       0.95      0.95      0.95       268
+
+============================================================
+
+Model: random_forest
+Metrics:
+  accuracy: 0.9664
+  precision: 0.9683
+  recall: 0.8971
+  f1_score: 0.9313
+  roc_auc: 0.9764
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98       200
+           1       0.97      0.90      0.93        68
+
+    accuracy                           0.97       268
+   macro avg       0.97      0.94      0.95       268
+weighted avg       0.97      0.97      0.97       268
+
+============================================================
+
